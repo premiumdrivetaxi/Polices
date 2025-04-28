@@ -1,6 +1,6 @@
-# Privacy Policy for GeometryRush
+# Privacy Policy for Perfect Pop
 
-Last Updated: 04.04.2025
+Last Updated: 04.28.2025
 
 ## Introduction
 This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile game GeometryRush ("the Game"). We are committed to protecting your privacy and handling your data in a transparent and lawful manner.
