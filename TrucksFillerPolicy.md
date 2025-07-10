@@ -1,4 +1,4 @@
-# Privacy Policy for PuzzleQuest
+# Privacy Policy for TrucksFiller
 
 Last Updated: 10.07.2025
 
