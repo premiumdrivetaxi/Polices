@@ -1,9 +1,9 @@
-# Privacy Policy for Robo snake
+# Privacy Policy for BuildTheRocket
 
 Last Updated: 11.10.2026
 
 ## Introduction
-This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile game Build the rocket ("the Game"). We are committed to protecting your privacy and handling your data in a transparent and lawful manner.
+This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile game BuildTheRocket ("the Game"). We are committed to protecting your privacy and handling your data in a transparent and lawful manner.
 
 ## Data Controller
 Ishka Gaming
